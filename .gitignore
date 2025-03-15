@@ -217,4 +217,4 @@ ENV/
 
 vector_db
 database/olist.sqlite
-extracted_content/
+!extracted_content/*
